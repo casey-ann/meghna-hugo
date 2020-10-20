@@ -1,9 +1,9 @@
 ---
 feature:
   enable: true
-  image: images/canva-focused-housewife-in-apron-cleaning-wooden-table.jpg
-  image_webp: images/canva-focused-housewife-in-apron-cleaning-wooden-table.jpg
-  title: 'Panamalandia is een facilitaire dienstverlener in de schoonmaaksector. We
-    zijn actief in Amsterdam en directe omgeving. '
-  content: ''
+  image: "/images/canva-anonymous-person-cleaning-mirror-with-sponge.jpg"
+  image_webp: "/images/canva-anonymous-person-cleaning-mirror-with-sponge.jpg"
+  title: ''
+  content: 'Panamalandia is een facilitaire dienstverlener in de schoonmaaksector.
+    We zijn actief in Amsterdam en directe omgeving. '
   feature_item: []
