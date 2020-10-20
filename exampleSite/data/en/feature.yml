@@ -3,7 +3,6 @@ feature:
   enable: true
   image: "/images/canva-anonymous-person-cleaning-mirror-with-sponge.jpg"
   image_webp: "/images/canva-anonymous-person-cleaning-mirror-with-sponge.jpg"
-  title: ''
-  content: 'Panamalandia is een facilitaire dienstverlener in de schoonmaaksector.
-    We zijn actief in Amsterdam en directe omgeving. '
+  title: Al jarenlang ervaring in de schoonmaaksector
+  content: ". We zijn actief in Amsterdam en directe omgeving. "
   feature_item: []
