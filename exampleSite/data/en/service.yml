@@ -9,10 +9,12 @@ service:
   - name: Schoonmaak bij instellingen & kantoorruimtes
     icon: ti-layout
     content: ''
-  - name: Media &amp; Advertisement
+  - name: Facilitaire diensten voor B&B
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      - Schoonmaak
+      - Gasten ontvangen & sleuteloverdracht
+      - Wasserrette
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
