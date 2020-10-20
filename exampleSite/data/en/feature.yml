@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: "/images/canva-anonymous-person-cleaning-mirror-with-sponge.jpg"
-  image_webp: "/images/canva-anonymous-person-cleaning-mirror-with-sponge.jpg"
+  image: images/canva-crop-person-in-rubber-gloves-cleaning-tiles.jpg
+  image_webp: images/canva-crop-person-in-rubber-gloves-cleaning-tiles.jpg
   title: Al jarenlang ervaring in de schoonmaaksector
   content: ". We zijn actief in Amsterdam en directe omgeving. "
   feature_item: []
