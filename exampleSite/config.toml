@@ -20,25 +20,20 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "team"
+name = "about"
 pre = "#"
-url = "team"
-weight = 3
-[[menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 4
+url = "about"
+weight = 1
 [[menu.main]]
 name = "services"
 pre = "#"
 url = "services"
 weight = 2
 [[menu.main]]
-name = "about"
+name = "contact"
 pre = "#"
-url = "about"
-weight = 1
+url = "contact"
+weight = 7
 [params]
 author = "Casey"
 description = "Responsive Multipurpose Parallax Hugo Template"
