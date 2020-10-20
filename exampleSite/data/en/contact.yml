@@ -12,7 +12,7 @@ contact:
   - icon: ti-printer
     info: 'Fax: '
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: '
   contact_form:
     enable: true
     form_action: "#"
