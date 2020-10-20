@@ -12,7 +12,7 @@ contact:
   - icon: ti-printer
     info: 'Fax: '
   - icon: ti-email
-    info: 'Email: '
+    info: 'Email: casey.aviles@gmail.com'
   contact_form:
     enable: true
     form_action: "#"
