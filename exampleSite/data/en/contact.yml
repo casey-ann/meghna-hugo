@@ -10,7 +10,7 @@ contact:
   - icon: ti-mobile
     info: 'Phone: '
   - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
+    info: 'Fax: '
   - icon: ti-email
     info: 'Email: hello@meghna.com'
   contact_form:
